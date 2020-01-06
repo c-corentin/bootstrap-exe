@@ -1,0 +1,21 @@
+section {
+    margin-top: 100px;
+}
+
+.test {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: pink;
+    text-align: center;
+}
+
+#testN {
+    height: fit-content;
+}
+
+.testa {
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
